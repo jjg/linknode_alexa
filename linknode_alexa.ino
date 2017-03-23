@@ -10,8 +10,8 @@
 #define SERIAL_BAUDRATE 115200
 
 // Wifi credentials REMOVE BEFORE COMMITTING TO GITHUB!!!
-#define WIFI_SSID "theupsidedown"
-#define WIFI_PASS "Sevencome11"
+#define WIFI_SSID "change"
+#define WIFI_PASS "me"
 
 fauxmoESP fauxmo;
 
